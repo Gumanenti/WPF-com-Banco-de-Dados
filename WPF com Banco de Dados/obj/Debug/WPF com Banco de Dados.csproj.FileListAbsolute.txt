@@ -16,3 +16,21 @@ C:\Users\Usuário\source\repos\WPF com Banco de Dados\WPF com Banco de Dados\obj
 C:\Users\Usuário\source\repos\WPF com Banco de Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.csproj.CoreCompileInputs.cache
 C:\Users\Usuário\source\repos\WPF com Banco de Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.exe
 C:\Users\Usuário\source\repos\WPF com Banco de Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.pdb
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\bin\Debug\WPF com Banco de Dados.exe.config
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\bin\Debug\WPF com Banco de Dados.exe
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\bin\Debug\WPF com Banco de Dados.pdb
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\CadastroUsuario.g.cs
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\MainWindow.g.cs
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\App.g.cs
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados_MarkupCompile.cache
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados_MarkupCompile.lref
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\CadastroUsuario.baml
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\MainWindow.baml
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.g.resources
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF_com_Banco_de_Dados.Properties.Resources.resources
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.exe
+C:\Users\Usuário\Desktop\GUSTAVO\Git Hub\WPF com Banco de Dados - Clone 1\WPF-com-Banco-de-Dados\WPF com Banco de Dados\obj\Debug\WPF com Banco de Dados.pdb
