@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d48f7fd-b16b-4d5f-95b9-845bfb9a2b7e": {
+      "ProjectGuid": "8d48f7fd-b16b-4d5f-95b9-845bfb9a2b7e",
+      "DisplayName": "WPF com Banco de Dados",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
